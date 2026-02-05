@@ -1,1 +1,1 @@
-# CODECRAFT_WD_02
+# WD_02
